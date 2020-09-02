@@ -1,1 +1,2 @@
-Welcome to my blog
+title: "Welcome to my blog"
+date: 09-01-2020
